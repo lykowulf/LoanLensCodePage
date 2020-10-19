@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="Content\custom.css" />
     <Content Include="Content\prism.css" />
+    <Content Include="Images\icons8-monocle-50.png" />
+    <Content Include="Images\LoanLens-PixTeller.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\prism.js" />
     <Content Include="Web.config" />
